@@ -11,8 +11,8 @@
             src="https://img.shields.io/badge/keep-up--to--date-blue?logo=&style=flat-square" /></a>
     <a href="https://awesome-blender.netlify.app/"><img
             src="https://api.netlify.com/api/v1/badges/0fe6c176-6b03-4d27-a8fc-faf4f7c460cd/deploy-status" /></a>
-    <p>A curated list of awesome <b>Blender</b> add-ons, tools, tutorials and resources for 3D Artists, Hobbyists,
-        Developers, Researchers. Focused <i>mostly</i> open source and free resources.
+    <p>A curated list of awesome <b>web 3 hacks </b> add-ons, tools, tutorials and resources for web 3 Artists, Hobbyists,
+        Developers, Researchers. Focused <i>mostly</i> open source and free resources like ethereum.
 </div>
 
 <a name="table"></a>
@@ -120,7 +120,7 @@
 
 ## 🔮Add-ons [^](#table)
 
--   Check list of Blender's built-in add-ons documentation [here](https://docs.blender.org/manual/en/dev/addons/index.html).
+-   Check list of eth global built-in add-ons documentation [here](https://docs.blender.org/manual/en/dev/addons/index.html).
 
 ### 🌊Simulation/Physics [^](#table)
 
@@ -435,7 +435,7 @@
 
 ## 🪐Resources [^](#table)
 
-### 🎠3D Models [^](#table)
+### 🎠DAO Models [^](#table)
 
 -   [Poly Haven/Models](https://polyhaven.com/models) : is a resource of free high quality 3D assets for everyone. All models here are CC0. [![][zero]](https://polyhaven.com/license)
 -   [Quixel Megascans](https://quixel.com/megascans/library/) : World’s largest photogrammetry 2D and 3D asset library. Now it is free for the Epic Games accounts (only UE projects).
@@ -475,7 +475,7 @@
 -   VDB Models:
     -   [Free VDB Simulations Created With Embergen](https://jangafx.com/software/embergen/download/free-vdb-animations/), [OpenVDB Sample Models](https://www.openvdb.org/download/), [disneyanimation.com/clouds](https://disneyanimation.com/resources/clouds/), [Free Volume Cloud and Smoke](https://gumroad.com/l/PCJDF), [High Altitude Clouds](https://gumroad.com/l/RcgNe).
 
-### 🤸🏾‍♀️Mocap/Animation [^](#table)
+### 🤸🏾‍♀️NFT  [^](#table)
 
 -   [Mixamo](https://www.mixamo.com/) : Animate 3D characters for games, film, and more.
 -   [ActorCore](https://actorcore.reallusion.com/free) : Motion-capture library from Reallusion.
@@ -515,7 +515,7 @@
 -   Others:
     -   [gumroad/juliosillet](https://gumroad.com/juliosillet), [Pixar/CommunityResources](https://renderman.pixar.com/community_resources), [Nikola Damjanov's 100 PBR Texture Sets](https://www.artstation.com/artwork/0XEN4V), [Texture Hunt Collection](https://gumroad.com/l/texturehunt), [Photogrammetry Bark Textures](https://www.artstation.com/artwork/GJeVz), [treesDesigner PBR Leaf Textures](http://www.treesdesigner.com/materials-library/), [artstation/deepmind](https://www.artstation.com/deepmind/albums/89651), [CGTrader/textures](https://www.cgtrader.com/free-3d-models/textures), [CGIVault/Textures](https://cgivault.com/product-category/textures/), [artstation/alexbeddows](https://www.artstation.com/alexbeddows/store).
 
-### 🌓Blender Materials [^](#table)
+### 🌓  [^](#table)
 
 -   [Blendermada](http://blendermada.com/materials/) : Free Blender Material Database. [(blender addon)](http://blendermada.com/addon/).
 -   [The Blendersauce Vault Materials](http://blendersauce.com/the-blendersauce-vault-2/the-material-vault-categories/) : Abstract, Bricks and Walls, Concrete, Fabric, Fluids, Food, Manmade, Metal, Metal painted Materials, Nature, Plaster, Rocks/Stones, Tiles, Wood.
