@@ -3,8 +3,8 @@
 [![img](https://sf.ethglobal.com/img/ethglobal.svg "Awesome Web3 hacks, bg: @mantissa (randomrepoimg.fly.dev)")](#table)
 
 <div align="center">
-    <a href="#table"><img alt="Awesome Blender"
-            src="https://img.shields.io/badge/awesome-gray?logo=blender&style=flat-square" /></a>
+    <a href="#table"><img alt="Awesome ETH Global"
+            src="https://discord.com/invite/GffYREe" /></a>
     <a href="https://discord.com/invite/blender"><img alt="discord"
             src="https://img.shields.io/badge/discord-blender-blue?logo=discord&style=flat-square" /></a>
     <a href="#Contributing-"><img alt="Contributions are Welcome"
