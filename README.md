@@ -1,6 +1,6 @@
 # Awesome-ETHGlobal
 
-[![img](https://randomrepoimg.fly.dev/agmmnn/awesome-blender/imgs "Awesome Blender, bg: @mantissa (randomrepoimg.fly.dev)")](#table)
+[![img](https://sf.ethglobal.com/img/ethglobal.svg "Awesome Web3 hacks, bg: @mantissa (randomrepoimg.fly.dev)")](#table)
 
 <div align="center">
     <a href="#table"><img alt="Awesome Blender"
